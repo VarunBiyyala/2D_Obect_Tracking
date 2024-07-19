@@ -10,4 +10,4 @@ In this part of the project, we will implement the following
 
 A video demonstration of the object detection and tracking process can be found below:
 
-[![Video Placeholder](path_to_placeholder_image.png)](path_to_video.mp4)
+[![Video Placeholder](path_to_placeholder_image.png)](https://github.com/VarunBiyyala/2D_Object_Tracking/blob/main/Tracking.mp4)
