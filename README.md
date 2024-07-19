@@ -10,5 +10,5 @@ In this part of the project, we will implement the following
 
 Below are the Images capture at different time frames.
 
-[![Image1](https://github.com/VarunBiyyala/2D_Object_Tracking/blob/main/Track1.JPG)]
-[![Image1](https://github.com/VarunBiyyala/2D_Object_Tracking/blob/main/Track2.JPG)]
+![Image1](https://github.com/VarunBiyyala/2D_Object_Tracking/blob/main/Track1.JPG)
+![Image1](https://github.com/VarunBiyyala/2D_Object_Tracking/blob/main/Track2.JPG)
