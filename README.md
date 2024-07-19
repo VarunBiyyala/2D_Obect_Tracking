@@ -2,7 +2,9 @@
 
 ## Project Brief Description
 
-This project demonstrates the use of DeepSORT for object detection and tracking. It includes the necessary code to set up and run the detection model, project 3D LiDAR point clouds to 2D image space, and associate LiDAR depth with each detected object.
+In this part of the project, we will implement the following
+1. Object Detection with YOLO-NAS
+2. Object Tracking with YOLO-NAS and DeepSORT
 
 ## Video Result
 
