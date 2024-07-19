@@ -8,7 +8,7 @@ In this part of the project, we will implement the following
 
 ## Results
 
-Below are the Images capture at different time frames.
+Below are the Images capture at different time frames (Note Car Id's 5 and 17).
 
 ![Image1](https://github.com/VarunBiyyala/2D_Object_Tracking/blob/main/Track1.JPG)
 ![Image1](https://github.com/VarunBiyyala/2D_Object_Tracking/blob/main/Track2.JPG)
